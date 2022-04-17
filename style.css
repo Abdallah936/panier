@@ -1,0 +1,20 @@
+.photo {
+    position: relative;
+    padding-bottom: 18%;
+  }
+  #photo1 {
+    position: absolute;
+    left: 50%;
+  }
+  #photo2 {
+    position: absolute;
+    left: 30%;
+  }
+  .identif {
+    display: flex;
+    position: absolute;
+    left: 39%;
+    top: 60%;
+    gap: 280%;
+  }
+  
